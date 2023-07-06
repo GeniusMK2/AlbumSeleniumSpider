@@ -29,7 +29,7 @@ def reset(driver):
     submit_button = driver.find_element(By.XPATH, '//button[@type="submit"]')
     submit_button.click()
     time.sleep(5)
-    driver.get("https://www.tumblr.com/badrachel?redirect_to=%2Fbadrachel&source=content_warning_wall")
+    driver.get("https://www.tumblr.com/ACCOUNT_YOU_WANNA_SCRAP")
     time.sleep(10)
     continue_button = driver.find_element(By.XPATH, '//button[text()="ブログを表示"]')
     continue_button.click()
