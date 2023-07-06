@@ -1,0 +1,3 @@
+pywinauto
+selenium
+undetected_chromedriver
