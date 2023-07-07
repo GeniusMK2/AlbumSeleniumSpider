@@ -7,6 +7,6 @@ Spider Powered by Selenium, to scrap all pics in an account in Tumblr.
 3. Fill **spider.py** with *pic_path*, *account_you_wanna_to_scrap*, *your_username* and *your_password*.
    > Or you can comment out reset() function and login manually.   
 4. Run **spider.py** with python.
-5. **DO NOT MAKE THE CHROME LOST FOCUS AND DO NOT USE KEYBOARD&MOUSE** unless you wanna stop the program.
+5. **DO NOT MAKE THE CHROME WINDOW LOST FOCUS AND DO NOT USE KEYBOARD&MOUSE** unless you wanna stop the program.
 
 ENJOY!
