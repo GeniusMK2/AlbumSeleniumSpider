@@ -1,4 +1,4 @@
-# TumblrSeleniumSpider
+# AlbumSeleniumSpider
 Spider Powered by Selenium, to scrap all pics in an account in Tumblr.
 
 # USAGE
